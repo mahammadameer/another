@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Spring Core 2.0 jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Spring Core 2.0 jars/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Spring Core 2.0 jars/spring-context-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Spring Core 2.0 jars/spring-core-2.5.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
